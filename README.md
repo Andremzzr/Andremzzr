@@ -1,5 +1,5 @@
 ### Hi there 👋
-(https://66.media.tumblr.com/c75aec5ef73a7d164e629e7032584f4f/tumblr_pgny3sxpVZ1v05rsfo1_500.gif)
+![Dev](https://66.media.tumblr.com/c75aec5ef73a7d164e629e7032584f4f/tumblr_pgny3sxpVZ1v05rsfo1_500.gif)
 
 <!--
 **Andremzzr/Andremzzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
