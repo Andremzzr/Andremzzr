@@ -1,4 +1,4 @@
-### Hi there, welcome to my programming space 👋
+###  :city_sunset: Hi there, welcome to my programming space :city_sunset:
 ![Dev](https://66.media.tumblr.com/c75aec5ef73a7d164e629e7032584f4f/tumblr_pgny3sxpVZ1v05rsfo1_500.gif)
 
 <!--
@@ -19,8 +19,8 @@
 - 😄 Pronouns: [He/Him}
 - ⚡ Fun fact: 
   <ul>
-  <li> I love the culinary art</li>
-  <li> My hobbies are read books/mangas/comicbooks, watch anime, play guitar</li>
-  <li> I'm really really passionate about science and its method</li>
+  <li> :ramen: I love the culinary art</li>
+  <li> :book: My hobbies are read books/mangas/comicbooks, watch anime, play guitar</li>
+  <li> :microscope: I'm really passionate about science and its method</li>
   </ul>
 
