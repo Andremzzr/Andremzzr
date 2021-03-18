@@ -19,8 +19,8 @@
 - 😄 Pronouns: [He/Him}
 - ⚡ Fun fact: 
   <ul>
-  <li> :ramen: I love the culinary art</li>
-  <li> :book: My hobbies are read books/mangas/comicbooks, watch anime, play guitar</li>
-  <li> :microscope: I'm really passionate about science and its method</li>
+  <li> :ramen: I love the culinary art;</li>
+  <li> :book: My hobbies are read books/mangas/comicbooks, watch anime, play guitar;</li>
+  <li> :microscope: I'm really passionate about science and it's method;</li>
   </ul>
 
