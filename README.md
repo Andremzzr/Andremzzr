@@ -8,7 +8,7 @@
 
 
 -->
-
+- My name is André M. RIbeiro and i'm 19yo
 - 🌱 I’m currently learning PHP / HTML / CSS / JS / MYSQL  
 - 👯 I’m looking to collaborate on PHP
 - 🤔 I’m looking for help with Web scrapping/HTTPS
