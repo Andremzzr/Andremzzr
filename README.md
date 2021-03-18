@@ -13,7 +13,9 @@
 - 👯 I’m looking to collaborate on PHP
 - 🤔 I’m looking for help with Web scrapping/HTTPS
 - 💬 Ask me about anything and I'll see what I can do to help you :D
-- 📫 How to reach me: [Website](https://andremzzr.github.io/aboutMe/), [Linkedin] (https://www.linkedin.com/in/andr%C3%A9-mezzalira-ribeiro-90ab0b1ba/)
+- 📫 How to reach me: [Website](https://andremzzr.github.io/aboutMe/), <a href="https://www.linkedin.com/in/andr%C3%A9-mezzalira-ribeiro-90ab0b1ba/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
 - 😄 Pronouns: [He/Him}
 - ⚡ Fun fact: 
   <ul>
