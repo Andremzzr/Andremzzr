@@ -9,7 +9,7 @@
 
 -->
 
-- 🌱 I’m currently learning ```diff - PHP/HTML/CSS/JS/MYSQL ``` 
+- 🌱 I’m currently learning  <p style="color: purple; ">PHP</p>/HTML/CSS/JS/MYSQL  
 - 👯 I’m looking to collaborate on PHP
 - 🤔 I’m looking for help with Web scrapping/HTTPS
 - 💬 Ask me about anything and I'll see what I can do to help you :D
