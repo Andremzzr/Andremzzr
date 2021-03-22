@@ -10,6 +10,7 @@
 -->
 - My name is André M. RIbeiro and i'm 19yo
 - 🌱 I’m currently learning PHP / HTML / CSS / JS / MYSQL  
+- :telescope: I'm looking for work as a developer
 - 👯 I’m looking to collaborate on PHP
 - 🤔 I’m looking for help with Web scrapping
 - 💬 Ask me about anything and I'll see what I can do to help you :D
