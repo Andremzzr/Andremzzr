@@ -8,7 +8,7 @@
 
 
 -->
-- My name is André M. RIbeiro and i'm 20yo
+- My name is André M. RIbeiro and I'm 20yo
 - 🌱 I’m currently learning PHP / HTML / CSS / JS / MYSQL  
 - :telescope: I'm looking for work as a developer
 - 👯 I’m looking to collaborate on PHP
