@@ -19,7 +19,7 @@
 - ⚡ Fun facts: 
   <ul>
   <li> :ramen: I love the culinary art;</li>
-  <li> :book: My hobbies are read books/mangas/comicbooks, watch anime, play guitar;</li>
+  <li> :book: My hobbies are read books/mangas/comicbooks, watch anime, play guitar...</li>
   <li> :microscope: I'm really passionate about science and it's method;</li>
   </ul>
 
