@@ -15,7 +15,7 @@
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a> 
   </a> &nbsp; 
   </br>
-- </br>
+</br>
 - ⚡ Fun facts: 
   <ul>
   <li> :ramen: I love the culinary art;</li>
