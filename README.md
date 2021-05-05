@@ -14,6 +14,8 @@
 - 📫 How to reach me: [Website](https://andremzzr.github.io/aboutMe/), <a href="https://www.linkedin.com/in/andr%C3%A9-mezzalira-ribeiro-90ab0b1ba/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a> 
   </a> &nbsp; 
+  </br>
+- </br>
 - ⚡ Fun facts: 
   <ul>
   <li> :ramen: I love the culinary art;</li>
