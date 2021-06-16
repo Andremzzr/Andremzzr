@@ -9,7 +9,7 @@
 
 -->
 - My name is <b>André M. RIbeiro</b> and I'm 20yo
-- 🌱 I’m currently learning <b>PHP</b> / <b>HTML</b> / <b>CSS</b> / <b>JS</b> / <b>MYSQL</b>  
+- 🌱 I’m currently learning <b>PHP</b> / <b>JS</b> / <b>MYSQL</b>  
 - :telescope: I'm looking for work as a developer
 - 📫 How to reach me: [Website](https://andremzzr.github.io/aboutMe/), <a href="https://www.linkedin.com/in/andr%C3%A9-mezzalira-ribeiro-90ab0b1ba/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a> 
