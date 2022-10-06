@@ -1,5 +1,4 @@
 ###  :city_sunset: Hi there, my name is André M. Ribeiro and I'm 21yo, welcome to my programming space :city_sunset:
-![Dev](https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv)
 ##
 <!--
 **Andremzzr/Andremzzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
